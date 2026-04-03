@@ -1,6 +1,6 @@
 // ── ChurnIQ Pro — API layer ─────────────────────────────────
-// Change BASE_URL when you deploy to Render
-export const BASE_URL = 'http://localhost:8000'
+
+export const BASE_URL = https://churniq-32r3.onrender.com/
 
 async function get(path) {
   try {
