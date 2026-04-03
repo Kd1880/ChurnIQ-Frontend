@@ -1,6 +1,6 @@
 // ── ChurnIQ Pro — API layer ─────────────────────────────────
 
-export const BASE_URL = https://churniq-32r3.onrender.com/
+export const BASE_URL = 'https://churniq-32r3.onrender.com'
 
 async function get(path) {
   try {
